@@ -1,4 +1,4 @@
-# pip install pymysql pandas sqlalchemy dotenv
+# pip install pymysql pandas sqlalchemy python-dotenv
 import pandas as pd
 from sqlalchemy import create_engine
 import os
